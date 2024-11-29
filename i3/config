@@ -229,3 +229,5 @@ exec_always feh --bg-fill ~/Pictures/bVriqX.jpg
 exec_always qbittorrent
 exec_always --no-startup-id xfce4-power-manager
 exec_always --no-startup-id /usr/lib/mate-polkit/polkit-mate-authentication-agent-1
+bindsym $mod+b exec firefox
+bindsym $mod+n exec thunar
